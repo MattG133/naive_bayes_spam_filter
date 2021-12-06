@@ -1,0 +1,1 @@
+In this work I will build a multinominal Naive Bayes algorithm in order to sort the messages from <a href="https://archive.ics.uci.edu/ml/datasets/sms+spam+collection">SMSSpamCollection</a> dataset based on wether the message is a SPAM or not.
